@@ -1,6 +1,5 @@
-import React, { useState, useEffect, useCallback, memo } from "react";
+import React, { useState, useEffect, useCallback } from "react";
 import axios from "axios";
-import "bootstrap/dist/css/bootstrap.min.css";
 import Button from "./component/Button";
 import TextField from "./component/TextField";
 import TodoItem from "./component/TodoItem";
