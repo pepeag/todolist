@@ -34,22 +34,6 @@ A simple Todo List application built with React and TypeScript. It allows users 
    ```sh
    npm start
    ```
-
-## Project Structure
-```
-📂 todolist
-├── 📂 src
-│   ├── 📂 components
-│   │   ├── Button.tsx
-│   │   ├── CheckBox.tsx
-│   │   ├── TextBox.tsx
-│   │   ├── TodoItem.tsx
-│   ├── App.tsx
-│   ├── TodoList.tsx
-├── 📜 package.json
-├── 📜 README.md
-```
-
 ## API
 The app fetches todos from:
 ```
